@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-
+import './note-details.css';
 class NoteDetails extends Component{
 
   handleClick = (event) => {
