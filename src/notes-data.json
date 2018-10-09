@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "title": "Note 1",
+      "responsible": "Paula",
+      "description": "Generar Reporte salidas",
+      "priority": "Low"
+    },
+    {
+      "title": "Note 2",
+      "responsible": "Juan",
+      "description": "Generar Reporte entradas",
+      "priority": "Medium"
+    },
+    {
+      "title": "Note 3",
+      "responsible": "Pedro",
+      "description": "Generar Reporte inventario",
+      "priority": "high"
+    },
+    {
+      "title": "Note 4",
+      "responsible": "Rocio",
+      "description": "Generar Reporte de existencias",
+      "priority": "high"
+    }
+  ]
+}
